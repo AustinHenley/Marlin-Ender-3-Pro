@@ -1,3 +1,12 @@
+<p>This is a configuration for the latest Marlin firmware for the Creality Ender 3 Pro with the following mods: BL-Touch/CR-Touch, skr mini e3v3, dual z, and Creality Sprite Extruder Pro.<p/>
+<p>This will have the following featuers enabled:</p>
+<ul>
+    <li>Firmware retraction</li>
+    <li>Safe Z Homing</li>
+    <li>Using probe as Z-Endstop</li>
+    <li>Unified Mesh Bed Leveling</li>
+</ul>
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
